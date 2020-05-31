@@ -1,0 +1,26 @@
+** SAMPLE METADATA TEMPLATE FOR DATASETS **
+
+Metadata for filename: 
+
+Author(s): 
+Organization: 
+Contact: 
+
+Creation Date: 
+
+Purpose: 
+
+File type: ___ , Delimiter:
+File size: 
+MD5 Checksum: 
+# of records: 
+
+Data items and types:
+Header line: 
+
+
+Usage restrictions: 
+
+Citation:
+
+
