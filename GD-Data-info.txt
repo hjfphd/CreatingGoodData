@@ -1,0 +1,32 @@
+Metadata for filename: GD-Data.csv
+
+Author(s): Harry J. Foxwell
+Organization: George Mason University
+Contact: hfoxwell@gmu.edu
+
+Creation Date: 2020-05-24
+
+Purpose: Practice synthetic dataset for Creating Good Data book
+
+File type: CSV, Delimiter: ';' (semicolon)
+File size: 15134 bytes
+MD5 Checksum: 2b12e3b6bfdbb5f2c28f84ea918294e4
+# of records: 500 (not including header line)
+
+Data items and types:
+Header line: gender;age;degree;field;wrkfld;annsal;payfair;jobsat
+
+gender: Nominal, respondent's stated gender, Male/Female/NotSay/Other
+age: Ratio/Integer, age in years
+degree: Ordinal, college degree, BS/MS/PHD
+field: Nominal, field of college degree, Biol/Chem/Comp/Engr/Phys
+wrkfld: Nominal, currently working in degree field, No/Yes
+annsal: Ratio/float, annual salary in thousands US Dollars
+payfair: Likert, are paid fairly, 1-5 low-high
+jobsat: Likert, satisfied in job, 1-5 low-high
+
+Usage restrictions: none
+
+Citation:
+Foxwell, Harry J., 2020, GD-Data.csv, [GIT url TBD]
+
